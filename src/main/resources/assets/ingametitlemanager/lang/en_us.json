@@ -1,0 +1,14 @@
+{
+  "key.moveUp": "Move Up",
+  "key.moveDown": "Move Down",
+  "key.moveRight": "Move Right",
+  "key.moveLeft": "Move Left",
+
+  "key.action": "Action for title",
+  "key.switchToSubtitle": "Action for subtitle",
+
+  "keybinds.category": "InGameTitleManager configuration keybindings",
+
+  "title.move.preview": "Now title on X:%s Y:%s",
+  "subtitle.move.preview": "Now subtitle on X:%s Y:%s"
+}

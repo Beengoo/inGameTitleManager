@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "ingametitlemanager",
+  "version": "${version}",
+  "name": "inGameTitleManager",
+  "description": "",
+  "authors": [],
+  "contact": {
+    "repo": "https://github.com/Beengoo/inGameTitleManager"
+  },
+  "license": "MIT",
+  "icon": "assets/ingametitlemanager/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "ua.beengoo.ingametitlemanager.client.InGameTitleManagerClient"
+    ]
+  },
+  "mixins": [
+    "ingametitlemanager.mixins.json"
+  ],
+  "custom": {
+    "badges": [ "utility" ]
+  },
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}

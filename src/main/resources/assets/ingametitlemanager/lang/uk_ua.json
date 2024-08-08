@@ -1,0 +1,14 @@
+{
+  "key.moveUp": "Перемістити вгору",
+  "key.moveDown": "Перемістити вниз",
+  "key.moveRight": "Перемістити праворуч",
+  "key.moveLeft": "Перемістити ліворуч",
+
+  "key.action": "Дія з заголовком",
+  "key.switchToSubtitle": "Дія з підзаголовком",
+
+  "keybinds.category": "InGameTitleManager - Налаштування сполучень клавіш",
+
+  "title.move.preview": "Заголовок на: x:%s та y:%s координатах",
+  "subtitle.move.preview": "Та підзаголовок на: x:%s та y:%s координатах"
+}
